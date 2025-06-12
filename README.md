@@ -61,9 +61,3 @@ Intended **only for local or home use**. **Not recommended for public or product
 This API **does not include any authentication** — anyone with access to the server can add or delete data.  
 **Not suitable for production or public use without additional security layers!**
 
----
-
-## 🧪 Example Requests
-
-Add a user:
-
